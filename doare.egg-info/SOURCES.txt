@@ -1,0 +1,8 @@
+setup.py
+doare/__init__.py
+doare/get_data.py
+doare.egg-info/PKG-INFO
+doare.egg-info/SOURCES.txt
+doare.egg-info/dependency_links.txt
+doare.egg-info/requires.txt
+doare.egg-info/top_level.txt
